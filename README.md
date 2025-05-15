@@ -15,4 +15,6 @@ A minimal implementation of a Todo feature using Redux Toolkit.
 3. Configure the Redux store and connect it to your React app
 4. Use `useSelector` and `useDispatch` to access and update the todo state in components
 
-## Folder Structure Suggestion
+## screenshot
+
+![Scrrenshot of the App](./src/assets/image.png)
